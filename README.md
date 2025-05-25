@@ -6,7 +6,7 @@ This is a beginner-friendly Tableau dashboard project based on the YouTube tutor
 
 ## 📁 Files Included
 - `Customer Analysis.twb`: Tableau packaged workbook with all visualizations.
-- `Data.xlsx`: Sample data used in the dashboard.
+- `Sales_06_FY2020-21.csv`: Sample data used in the dashboard.
 - `README.md`: Project description.
 
 ## 📌 Dashboard Features
@@ -20,7 +20,7 @@ This is a beginner-friendly Tableau dashboard project based on the YouTube tutor
 
 ## 🧠 What I Learned
 - Connecting Tableau to Excel data
-- Creating bar, line and pie charts, maps
+- Creating maps and different types of charts including a butterfly chart, a donut chart and a scatter plot
 - Using filters
 - Designing a clean and interactive dashboard layout
 
